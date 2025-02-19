@@ -1,5 +1,6 @@
-//
 const data = {
   tags: ["JavaScript", "Node.js", "Express"],
 };
-console.log(data);
+
+let a = JSON.stringify(data);
+console.log(a);
