@@ -4,3 +4,5 @@ const data = {
 
 let a = JSON.stringify(data);
 console.log(a);
+console.log(a);
+console.log(a);
