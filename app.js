@@ -1,9 +1,6 @@
-//
-const data = {
-  tags: ["JavaScript", "Node.js", "Express"],
+const a = {
+  user: {
+    name: "홍길동",
+    age: 25,
+  },
 };
-
-let a = JSON.stringify(data);
-console.log(a);
-console.log(a);
-console.log(a);
