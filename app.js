@@ -5,3 +5,4 @@ const data = {
 };
 const da = qs.stringify(data);
 console.log(da);
+console.log(da);
